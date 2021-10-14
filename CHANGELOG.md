@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/justVitalius/semantic-release-example/compare/v1.2.0...v1.2.1) (2021-10-14)
+
+
+### Bug Fixes
+
+* add package.json to commit files ([7ed73ef](https://github.com/justVitalius/semantic-release-example/commit/7ed73ef9e4c43c851a16af8d63e0cd81953654fa))
+
 # [1.2.0](https://github.com/justVitalius/semantic-release-example/compare/v1.1.0...v1.2.0) (2021-10-14)
 
 
