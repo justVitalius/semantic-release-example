@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "justvitalius",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
