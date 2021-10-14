@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/justVitalius/semantic-release-example/compare/v1.1.0...v1.2.0) (2021-10-14)
+
+
+### Features
+
+* add index.js ([dd7bef1](https://github.com/justVitalius/semantic-release-example/commit/dd7bef1209679edf39956fa266000a672a8a40ed))
+
 # [1.1.0](https://github.com/justVitalius/semantic-release-example/compare/v1.0.1...v1.1.0) (2021-10-14)
 
 
