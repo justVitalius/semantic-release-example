@@ -1,3 +1,6 @@
+# Варианты настройки
+## Обновляем только гит-тэг при коммите
+```javascript
 module.exports = {
   plugins: [
     '@semantic-release/commit-analyzer',
@@ -5,3 +8,5 @@ module.exports = {
     '@semantic-release/github'
   ]
 }
+
+```
